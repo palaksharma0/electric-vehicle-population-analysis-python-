@@ -8,7 +8,7 @@ File: Electric_Vehicle_Population.csv
 🔧 Technologies Used
 Python (Pandas, NumPy)
 
-Data Visualization: Matplotlib, SeaborN
+Data Visualization: Matplotlib, Seaborn
 
 ✅ Project Objectives
 🧹 Objective 0: Data Preprocessing & Cleaning
